@@ -52,10 +52,10 @@ Welcome to my GitHub! I’m Tejas Metaliya, a passionate full-stack developer fo
 
 ## 🏫 Education
 Bachelor’s Degree in Bachelor of Computer Applications  
-<RK University> | <Graduation 2020>
+RK University | Graduation 2020
 
 Postgraduate Degree in Master of Computer Applications  
-<RK University> | <Graduation 2022>
+RK University | Graduation 2022
 ---
 
 ## 🌟 Values
@@ -67,9 +67,9 @@ Postgraduate Degree in Master of Computer Applications
 
 ## 📫 Contact
 
-- **Email:** [tejas.metaliya@example.com](mailto:tejas.metaliya@example.com)
+- **Email:** [tmetaliya133@rku.ac.in](mailto:tmetaliya133@rku.ac.in)
 - **GitHub:** [github.com/tejasmetaliya](https://github.com/tejasmetaliya)
-- **LinkedIn:** [linkedin.com/in/tejasmetaliya](https://linkedin.com/in/tejasmetaliya)
+- **LinkedIn:** [https://linkedin.com/in/tejasmetaliya](https://www.linkedin.com/in/tejas-metaliya-437358179)
 
 ---
 
