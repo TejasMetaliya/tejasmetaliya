@@ -14,3 +14,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Tejas Metaliya
+
+Welcome to my GitHub! I’m Tejas Metaliya, a passionate full-stack developer focused on crafting robust, scalable software solutions.
+
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 Developer with 3+ years of professional experience
+- 🌱 Always learning new technologies and best practices
+- 🤝 Open to collaborations on innovative projects and open-source contributions
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** c#, HTML, CSS, JavaScript
+- **Frameworks:** ASP.NET
+- **Databases:** PostgreSQL
+- **Tools:** Visual Studio
+- **Cloud:** AWS, Azure
+- **Other:** Unit Testing
+
+---
+
+## 📂 Featured Projects
+
+- **[JRE - East Japan Railway Company ]**  
+  Brief description highlighting the project’s purpose and your key contributions.
+
+- **[DMG Mori]**  
+  Short summary about another significant project, technologies used, your role.
+
+---
+
+## 🏫 Education
+Bachelor’s Degree in Bachelor of Computer Applications  
+<RK University> | <Graduation 2020>
+
+Postgraduate Degree in Master of Computer Applications  
+<RK University> | <Graduation 2022>
+---
+
+## 🌟 Values
+
+- Delivering clean, maintainable code
+- Continuing self-improvement
+
+---
+
+## 📫 Contact
+
+- **Email:** [tejas.metaliya@example.com](mailto:tejas.metaliya@example.com)
+- **GitHub:** [github.com/tejasmetaliya](https://github.com/tejasmetaliya)
+- **LinkedIn:** [linkedin.com/in/tejasmetaliya](https://linkedin.com/in/tejasmetaliya)
+
+---
+
+*Let’s connect and create something amazing together!*
